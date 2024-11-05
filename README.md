@@ -30,7 +30,7 @@ If you want to run JusCode locally or contribute to its development, follow thes
 
    ```bash
    git clone https://github.com/itspsycho07/Collaborative-Code-Editor.git
-   cd codecast
+   cd Collaborative-Code-Editor
    ```
 2. Install dependencies:
    ```
